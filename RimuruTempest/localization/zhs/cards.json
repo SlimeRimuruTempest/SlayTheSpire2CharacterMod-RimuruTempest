@@ -1,0 +1,6 @@
+{
+  "RIMURU_STRIKE.title": "打击",
+  "RIMURU_STRIKE.description": "造成 {Damage:diff()} 点伤害。",
+  "RIMURU_DEFEND.title": "防御",
+  "RIMURU_DEFEND.description": "获得 {Block:diff()} 点格挡。"
+}

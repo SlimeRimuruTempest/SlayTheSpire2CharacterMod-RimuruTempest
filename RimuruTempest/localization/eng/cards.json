@@ -1,0 +1,6 @@
+{
+  "RIMURU_STRIKE.title": "Strike",
+  "RIMURU_STRIKE.description": "Deal {Damage:diff()} damage.",
+  "RIMURU_DEFEND.title": "Defend",
+  "RIMURU_DEFEND.description": "Gain {Block:diff()} Block."
+}

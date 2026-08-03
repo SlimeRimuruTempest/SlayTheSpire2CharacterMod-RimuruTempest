@@ -7,7 +7,7 @@ public sealed class RimuruTempestCardPool : TypeListCardPoolModel
 {
     public override string Title => "Rimuru";
     public override string EnergyColorName => "Blue";
-    public override Color DeckEntryCardColor => new("4488cc");
+    public override Color DeckEntryCardColor => new("88bbcc"); // 利姆露银蓝发色
     public override bool IsColorless => false;
 }
 
